@@ -141,7 +141,9 @@ repository structure
 
 eda/
 ....data/
+
 ........bom.movie_gross.csv
+
 ........im.db
 
 ....exploration.ipynb
