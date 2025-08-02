@@ -137,9 +137,10 @@ Visualizations at `images/`.
 
 Datasets at `data`.
 
-repository structure
+**repository structure:**
 
 eda/
+
 ....data/
 
 ........bom.movie_gross.csv
@@ -149,6 +150,7 @@ eda/
 ....exploration.ipynb
 
 images/
+
 ....5 images
 
 README.md
