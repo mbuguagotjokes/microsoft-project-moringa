@@ -125,7 +125,7 @@ From the results obtained, it is safe to reccomend:
 
 - For Runtime of a succesful film they should try and keep their runtime in the range of `120 - 130` minutes
 
-- For Relevant genre they should focus on `Adventure`, `Action`, `Sci-Fi`
+- For a relevant genre they should focus on `Adventure`, `Action`, `Sci-Fi`
 
 **Final Recomendation**: The data itself testifies that the most promissing places to start is `Action` `Adventure` and `Sci-Fi`.
 
